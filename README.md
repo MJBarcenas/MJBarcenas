@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **mjbarcenas.official@gmail.com**
 
+- ⚡ Fun fact **According to Javascript, "0" == 0 🤡**
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://fb.com/imaqtchael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imaqtchael" height="30" width="40" /></a>
