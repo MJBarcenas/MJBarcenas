@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjbarcenas&label=Profile%20views&color=0e75b6&style=flat" alt="mjbarcenas" /> </p>
 
-- 🔭 I’m currently working on [keybored](https://github.com/MJBarcenas/Online-Typing-Test)
+- 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **mjbarcenas.official@gmail.com**
-
-- ⚡ Fun fact **According to Javascript, "0" == 0 🤡**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
